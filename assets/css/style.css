@@ -1,0 +1,25 @@
+body{
+    background-color: #b3f3de;
+}
+
+.characters{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.header{
+    width: 100%;
+    z-index: 1;
+}
+
+.headerStyle {
+    color:#6495ed;
+  }
+
+.textItem{
+    cursor: pointer;
+}
+
+.image{
+    height: 80%;
+}
